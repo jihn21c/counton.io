@@ -6885,7 +6885,7 @@ aGy(a){A.E8(new A.ajo(),a,t.z)},
 aGx(a){var s={}
 s.a="3\ub144"
 A.E8(new A.ajd(s),a,t.z)},
-aGA(a){var s=A.fT(a,!1,t.v),r=A.aoZ("yyyy/MM/dd EEE HH:mm:ss","ko_KR").lj(new A.cE(Date.now(),0,!1))+" : "+s.a+"\uac74"
+aGA(a){var s=A.fT(a,!1,t.v),r=A.aoZ("yyyy/MM/dd EEE HH:mm:ss","ko_KR").lj(new A.cE(Date.now(),0,!1))+" \n - "+s.a+"\uba85 \uc785\ub2c8\ub2e4."
 A.E8(new A.ajt(r,new A.zv(new A.cd(r,B.jl,B.bq),$.ak())),a,t.z)},
 Th(a,b){var s=0,r=A.O(t.H),q
 var $async$Th=A.P(function(c,d){if(c===1)return A.L(d,r)
